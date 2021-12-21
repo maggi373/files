@@ -1,7 +1,7 @@
 {
-  "61ab4c56-e52d-45c0-8717-f7e3b7c55c14": "http://files.thorfusion.xyz.eu-central-1.linodeobjects.com/capes/devs.png"  ,
+  "61ab4c56-e52d-45c0-8717-f7e3b7c55c14": "https://raw.githubusercontent.com/maggi373/files/main/capes/devs.png"  ,
   "Devs": {
-    "capeUrl": "http://files.thorfusion.xyz.eu-central-1.linodeobjects.com/capes/devs.png",
+    "capeUrl": "https://raw.githubusercontent.com/maggi373/files/main/capes/devs.png",
     "users": [
       "99f8ea75-fe85-4c5d-85a7-b7b78ba88ba1",
       "7dea3874-cd61-40d2-83ed-78559166fecf",
@@ -32,7 +32,7 @@
     ]
   },
   "Modpackdevs": {
-    "capeUrl": "http://files.thorfusion.xyz.eu-central-1.linodeobjects.com/capes/devs2.png",
+    "capeUrl": "https://raw.githubusercontent.com/maggi373/files/main/capes/devs2.png",
     "users": [
       "c30338e2-e28a-4c90-b940-bfe9197f9e82"
     ]
