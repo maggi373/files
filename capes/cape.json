@@ -1,0 +1,41 @@
+{
+  "61ab4c56-e52d-45c0-8717-f7e3b7c55c14": "http://files.thorfusion.xyz.eu-central-1.linodeobjects.com/capes/devs.png"  ,
+  "Devs": {
+    "capeUrl": "http://files.thorfusion.xyz.eu-central-1.linodeobjects.com/capes/devs.png",
+    "users": [
+      "99f8ea75-fe85-4c5d-85a7-b7b78ba88ba1",
+      "7dea3874-cd61-40d2-83ed-78559166fecf",
+      "bdb63e0d-49d3-4554-a90f-638c0b583ded",
+      "895e5921-f21f-4dbf-8edf-3635224425c0",
+      "9f6fd836-cc9b-4357-bf69-a935495a314a"
+    ]
+  }, 
+  "Dev": {
+    "capeUrl": "http://xbony2.github.io/resources/capes/nc_cape.png",
+    "users": [
+      "def72598-9f0c-4aba-b000-6cf8c5f817e0",
+      "1953d896-c1ff-4b3d-b77e-ed6928782d92",
+      "ced86eac-dbc0-46f1-9311-58471be741a9",
+      "d61a6c06-a3f1-495e-a32e-4c9a1df98b5a"
+    ]
+  },
+  "Poop cape": {
+    "capeUrl": "http://xbony2.github.io/resources/capes/poop_cape.png",
+    "users": [
+      "3f9f4a94-95e3-40fe-8895-e8e3e84d1468"
+    ]
+  },
+  "Angry poop cape": {
+    "capeUrl": "http://xbony2.github.io/resources/capes/angry_poop_cape.png",
+    "users": [
+      "9fd0b662-ee46-40be-b77d-0b37b37e86af"
+    ]
+  },
+  "Modpackdevs": {
+    "capeUrl": "http://files.thorfusion.xyz.eu-central-1.linodeobjects.com/capes/devs2.png",
+    "users": [
+      "c30338e2-e28a-4c90-b940-bfe9197f9e82"
+    ]
+  } 
+}
+
