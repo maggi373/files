@@ -1,1 +1,1 @@
-1.7.10:9.10.13:(22/07/21) Fixes steel ingot oredict for metalurgic infuser
+1.7.10:9.10.14:(06/09/22) Fixes an osmium compressor bug and adds new features
