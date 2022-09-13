@@ -1,1 +1,1 @@
-1.7.10:9.10.15:(06/09/22) Fixes an osmium compressor bug and adds new features
+1.7.10:9.10.16:(06/09/22) Some fixes and new features
