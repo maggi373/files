@@ -7,10 +7,15 @@
       "7dea3874-cd61-40d2-83ed-78559166fecf",
       "bdb63e0d-49d3-4554-a90f-638c0b583ded",
       "895e5921-f21f-4dbf-8edf-3635224425c0",
-      "9f6fd836-cc9b-4357-bf69-a935495a314a",
+      "9f6fd836-cc9b-4357-bf69-a935495a314a"
+    ]
+  },
+  "CAT": {
+    "capeUrl": "https://raw.githubusercontent.com/maggi373/files/main/capes/iamcat_cape.png.png",
+    "users": [
       "eea34140-6359-4a70-80fd-6879fea1218c"
     ]
-  }, 
+  },
   "Dev": {
     "capeUrl": "https://xbony2.github.io/resources/capes/nc_cape.png",
     "users": [
